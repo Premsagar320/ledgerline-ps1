@@ -1,0 +1,6 @@
+id,vendorId,description,currency,total,committed,status
+PO-1001,V-101,Brand design retainer,USD,5000.00,0.00,open
+PO-1002,V-102,Cloud infrastructure Q4,USD,10000.00,6000.00,open
+PO-1003,V-103,Office furniture east wing,USD,3000.00,0.00,open
+PO-1004,V-103,Office furniture west wing,USD,3000.00,0.00,open
+PO-1005,V-104,Facilities maintenance,USD,2000.00,0.00,open

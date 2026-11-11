@@ -1,0 +1,26 @@
+{
+  "passed": 20,
+  "checks": [
+    "real PDF happy path approved",
+    "PO display shows the approved reservation and remaining budget",
+    "source evidence is extracted from the actual PDF",
+    "duplicate is blocked without a second commitment",
+    "PO display keeps the duplicate invoice budget unchanged",
+    "partial PO overrun explains cumulative budget",
+    "PO display labels a held invoice as an uncommitted request",
+    "two PO candidates do not auto-select",
+    "human correction rechecks controls and retains original fields",
+    "image-only PDF is held instead of fabricating fields",
+    "original PDF is retained and rendered inside the review UI",
+    "scanned invoice completes with a named human verification trail",
+    "decision JSON export is a real output",
+    "PO dashboard reflects only approved cumulative spend",
+    "history and originals persist across reload",
+    "history filtering and search work",
+    "invalid file fails without saving a run",
+    "mobile overview fits the viewport",
+    "competing tabs cannot approve the same invoice twice",
+    "no unhandled browser errors"
+  ],
+  "errors": []
+}
